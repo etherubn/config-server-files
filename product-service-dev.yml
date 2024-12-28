@@ -18,5 +18,5 @@ spring:
   datasource:
     url: ${POSTGRESQL.URL.CONNECTION:jdbc:postgresql://localhost:5435/mitocode}
     username: mitocode
-    pasword: mitocode
+    password: mitocode
     driver-class-name: org.postgresql.Driver
